@@ -13,7 +13,7 @@
 
  ## 技能清单
 以下均为我熟练使用的技能
-- 开发语言：C#/Python/JavaScript
+- 开发语言：C#/Python/JavaScript/Go
 - Web技术： ASP.NET MVC/EF/WEB API/ADO.NET/Vue/NodeJs/
 - 跨平台开发： MUI/Xamarin
 - 数据库相关：SQL Server/MySQL/Oracle
@@ -28,12 +28,23 @@
 
 ## 项目经历
 ### 赣州市城乡规划平台（2018.11-2018.12）
+参与项目的维护工作，熟悉电子政务和规划审批的业务流程，熟悉公司业务流程框架。负责了部分bug的修复和子功能模块的调整。
+
+项目技术栈：ASP.NET + Oracle + Daaper + LayUI 
+
 ### 湖口市电子政务平台（2018.12-2018.12）
+参与项目的移动端WebApi接口的开发和部分平台维护工作，负责了部分bug的修复和子功能模块的调整。
+
+项目技术栈：ASP.NET + Oracle + Daaper + LayUI 
+
 ### 兴化市规划管理信息系统 (2018.12-至今)
+参与了项目的研发，使用了新的MVC5框架，使用了 SqlSugar 的ORM 框架，完成了项目中，流程表单控制流转，角色权限控制，表单提交变更等功能模块。
+
+项目技术栈：ASP.NET + Oracle + SqlSugar + LayUI 
 
 ## 开源项目和作品
   - [Sdnote](https://github.com/Sdnote)： 开源全栈项目，个人便签提醒类软件 (Web Api + Web App)
-  - [Leepush](https://github.com/Leepush) ： 聚合类服务平台（.Net Core + Python）
+  - [Derwer.Net](https://github.com/derwer-net) ： 基于 .Net Core 的快速开发框架
   - [腾讯云翻译社翻译/签约技术自媒体](https://cloud.tencent.com/developer/user/973635) ：为腾讯云翻译社供稿翻译技术文章，签约自媒体
 
 ## 致谢
